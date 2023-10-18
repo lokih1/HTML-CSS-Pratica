@@ -321,3 +321,7 @@ button:hover {
 .lista__footer img {
   padding-right: 0.5em;
 }
+
+.lista__footer a:hover{
+  color: #00adb5;
+}
