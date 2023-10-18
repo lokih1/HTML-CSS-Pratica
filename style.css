@@ -57,6 +57,8 @@ body {
   grid-template-columns: 50% 50%;
 }
 
+
+
 .box__principal {
   display: flex;
   height: 100%;
@@ -170,6 +172,7 @@ ul {
   max-width: 1300px;
   margin: 0 auto;
   flex-direction: column;
+  padding-top: 10em;
 }
 
 .lista__portfolio {
